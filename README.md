@@ -9,7 +9,7 @@
     <img align= "center"alt= "HTML5"src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Costa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven-Costa&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Estou aprendendo 📒:
