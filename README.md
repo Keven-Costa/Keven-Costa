@@ -5,11 +5,11 @@ Estudante de Análise e Desenvolvimento de Sistemas. Interessado em tecnologia, 
 🎯 Objetivo: Adquirir experiência
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-dos-santos-costa-210b6a235/)
+➡️ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/keven-dos-santos-costa)
 
 <hr>
 
-## 🛠️Projetos
+## 🛠️ Projetos
 - ... 
 - ...
 - ...
