@@ -2,19 +2,21 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas. Interessado em tecnologia, buscando a primeira oportunidade de trabalho na área de TI.
 
+🎯 Objetivo: Adquirir experiência
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-dos-santos-costa-210b6a235/)
 
 <hr>
 
-### Projetos
-- ...
+## 🛠️Projetos
+- ... 
 - ...
 - ...
 
 <hr>
 
-### ⚡ Tecnologias
+## ⚡ Tecnologias
 
 Estas são as tecnologias e ferramentas com as quais eu trabalho:
 
@@ -34,17 +36,8 @@ Estas são as tecnologias e ferramentas com as quais eu trabalho:
 
 **IDEs:** ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+<hr>
 
+### 📝 Aprendendo
 
-
-
-
-
-
-
-
-
-
-
-
-
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
