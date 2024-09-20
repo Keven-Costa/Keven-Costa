@@ -1,20 +1,50 @@
 ### Olá! Eu sou o Keven ✌🏼
 
-- 🌱 
+Estudante de Análise e Desenvolvimento de Sistemas. Interessado em tecnologia, buscando a primeira oportunidade de trabalho na área de TI.
 
-- 🔭 Estou em busca da minha primeira oportunidade de emprego.
-
-<details>
-    <summary>👨‍💻 Mais sobre mim</summary>
-    💬 Eu tenho 21 anos sou estudante de Análise e Desenvolvimento de Sistemas. Interessado em
-        tecnologia, buscando oportunidades de trabalho na área de TI.
-</details>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keven-dos-santos-costa-210b6a235/)
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keven-Costa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keven-Costa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+<hr>
+
+### Projetos
+- ...
+- ...
+- ...
+
+<hr>
+
+### ⚡ Tecnologias
+
+Estas são as tecnologias e ferramentas com as quais eu trabalho:
+
+**Backend:**  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+**Frontend:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+**Database:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud:** ...
+
+**Tools:** [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+
+
+
+**IDEs:** ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
