@@ -11,8 +11,8 @@ Estudante de Análise e Desenvolvimento de Sistemas. Interessado em tecnologia, 
 
 ## 🛠️ Projetos
 - [CarrosAPI (em desenvolvimento)](https://github.com/Keven-Costa/api-carros)
-- ...
-- ...
+- [Task Tracker CLI](https://github.com/Keven-Costa/cli-task-tracker)
+- [Tradutor em Ruby](https://github.com/Keven-Costa/tradutor-em-ruby)
 
 <hr>
 
