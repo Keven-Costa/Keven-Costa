@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Keven ✌🏼
 
-Estudante de Análise e Desenvolvimento de Sistemas. Interessado em tecnologia, buscando a primeira oportunidade de trabalho na área de TI.
+Com conhecimentos prático  e experiência na área de desenvolvimento de sistemas embarcados e eletrônica, atuei em projetos que envolvem desde o levantamento de requisitos até a implementação de hardware e software. Tenho expertise em programação de microcontroladores, como ESP32 e ATmega328P, utilizando C/C++ para desenvolvimento de firmware, manipulação de periféricos (GPIO, ADC, PWM, UART, I2C, SPI) e integração de sistemas com conectividade WiFi, GPRS e cabeados.
 
 🎯 Objetivo: Adquirir experiência
 
