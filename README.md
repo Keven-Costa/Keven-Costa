@@ -3,7 +3,6 @@
 Estudante de Análise e Desenvolvimento de Sistemas com experiência em projetos práticos voltados para o back-end. Focado em desenvolver soluções eficientes usando tecnologias como Java, Spring-Boot, Python, JavaScript, PHP e bancos de dados relacionais (MySQL).
 
 
-
 ➡️ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/keven-dos-santos-costa)
 
 <hr>
