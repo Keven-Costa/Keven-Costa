@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Keven ✌🏼
 
-Com conhecimentos prático  e experiência na área de desenvolvimento de sistemas embarcados e eletrônica, atuei em projetos que envolvem desde o levantamento de requisitos até a implementação de hardware e software. Tenho expertise em programação de microcontroladores, como ESP32 e ATmega328P, utilizando C/C++ para desenvolvimento de firmware, manipulação de periféricos (GPIO, ADC, PWM, UART, I2C, SPI) e integração de sistemas com conectividade WiFi, GPRS e cabeados.
+Estudante de Análise e Desenvolvimento de Sistemas com experiência em projetos práticos voltados para o back-end. Focado em desenvolver soluções eficientes usando tecnologias como Java, Spring-Boot, Python, JavaScript, PHP e bancos de dados relacionais (MySQL).
 
 
 
@@ -10,10 +10,10 @@ Com conhecimentos prático  e experiência na área de desenvolvimento de sistem
 
 ## 🛠️ Projetos
 
-- [Operação Papel - ATmega328P](https://github.com/Keven-Costa/Operacao_Papel)
-- [API-veiculos Python](https://github.com/Keven-Costa/veiculos-api)
-- [Task Tracker CLI](https://github.com/Keven-Costa/cli-task-tracker)
-- [CarrosAPI (em desenvolvimento)](https://github.com/Keven-Costa/api-carros)
+- [Sistema de Gestão para Pizzaria - Java ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria)
+- [API-veiculos Python  ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/veiculos-api)
+- [Task Tracker CLI ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/cli-task-tracker)
+- [CarrosAPI    ⚠️(em desenvolvimento)](https://github.com/Keven-Costa/api-carros)
 
 <hr>
 
@@ -22,10 +22,7 @@ Com conhecimentos prático  e experiência na área de desenvolvimento de sistem
 Estas são as tecnologias e ferramentas com as quais eu trabalho:
 
 
- ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-![Tinkercad](https://img.shields.io/badge/Tinkercad-F39C11?style=for-the-badge&logo=tinkercad)
- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)    ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)   [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 <hr>
 
