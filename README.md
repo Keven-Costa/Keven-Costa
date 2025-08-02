@@ -3,16 +3,25 @@
 Estudante de Análise e Desenvolvimento de Sistemas com experiência em projetos práticos voltados para o back-end. Focado em desenvolver soluções eficientes usando tecnologias como Java, Spring-Boot, Python, JavaScript, PHP e bancos de dados relacionais (MySQL).
 
 
-➡️ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/keven-dos-santos-costa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/keven-dos-santos-costa)
 
 <hr>
 
 ## 🛠️ Projetos
 
-- [Sistema de Gestão para Pizzaria - Java ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria)
-- [API-veiculos Python  ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/veiculos-api)
-- [Task Tracker CLI ⚠️(em Desenvolvimento)](https://github.com/Keven-Costa/cli-task-tracker)
-- [CarrosAPI    ⚠️(em desenvolvimento)](https://github.com/Keven-Costa/api-carros)
+- **[Sistema de Gestão para Pizzaria - Java ](https://github.com/Keven-Costa/sistema-de-gestao-para-pizzaria)**
+- **[API-veiculos Python  ](https://github.com/Keven-Costa/veiculos-api)**
+- **[Task Tracker CLI ](https://github.com/Keven-Costa/cli-task-tracker)**
+
+
+<hr>
+
+| Projetos   | Link do Repositório                          |
+|:-----------|:-------------------------------------------:|
+| Front-End  | [Repositório](https://github.com/Keven-Costa/front-end) |
+| Full-Stack  | [Repositório](https://github.com/Keven-Costa/full-stack) |
+| Java       | [Repositório](https://github.com/Keven-Costa/java)       |
+| Python     | [Repositório](https://github.com/Keven-Costa/python)     |
 
 <hr>
 
